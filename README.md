@@ -1,16 +1,63 @@
-# kampuste_ne_yenir
+# **Takım İsmi**
 
-A new Flutter project.
+Takım 101
 
-## Getting Started
+# Ürün İle İlgili Bilgiler
 
-This project is a starting point for a Flutter application.
+## Takım Elemanları
 
-A few resources to get you started if this is your first Flutter project:
+- Erinç Çetin: Product Owner
+- Hatice Deveci: Scrum Master
+- Fatma Pasin: Team Member/Developer
+- Beyzanur Yeşilyurt: Team Member/Developer
+- Beyza Nur Aslanhan: Team Member/Developer
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Ürün İsmi
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Kampüste Ne Yenir?
+
+## Ürün Açıklaması
+
+## Ürün Özellikleri
+
+## Hedef Kitle
+
+## Product Backlog URL
+
+[Miro Backlog Board](https://miro.com/app/board/uXjVO5awjgA=/)
+
+---
+
+# Sprint 1
+
+- **Sprint Notları**: 
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 
+
+- **Puan tamamlama mantığı**: 
+
+- **Backlog düzeni ve Story seçimleri**: 
+
+- **Daily Scrum**: 
+
+- **Sprint board update*:
+
+- **Ürün Durumu**:
+
+- **Sprint Review**: 
+
+- **Sprint Retrospective:**
+
+-**Diğer Notlar**:
+- N/A
+
+---
+
+# Sprint 2
+
+
+---
+
+# Sprint 3
+
+---
