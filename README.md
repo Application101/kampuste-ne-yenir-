@@ -40,7 +40,7 @@ Kampüste Ne Yenir?
 
 - **Daily Scrum**: 
 
-- **Sprint board update*:
+- **Sprint board update**:
 
 - **Ürün Durumu**:
 
