@@ -58,7 +58,7 @@ Kampüste Ne Yenir?
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken mavi item'lar yapılacak işleri (task) gösterirken, kırmızı item'lar story'leri temsil etmektedir.
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord üzerinden sesli veya yazılı konuşmalar olacak şekilde yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://yalova-my.sharepoint.com/:w:/g/personal/200101044_ogrenci_yalova_edu_tr/EUqK7X29N4pGg4uWdaMPg7MBFTWh7kq5eoZeY7IVIaYvhQ?e=IZd4K2)
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord üzerinden sesli veya yazılı konuşmalar olacak şekilde yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://yalova-my.sharepoint.com/:w:/g/personal/200101044_ogrenci_yalova_edu_tr/EUqK7X29N4pGg4uWdaMPg7MBFTWh7kq5eoZeY7IVIaYvhQ?e=IZd4K2)
 
 - **Sprint board update**: Sprint board screenshotları:
 ![Backlog 1](https://user-images.githubusercontent.com/104465906/167313602-43551506-a99a-40d1-8ef0-b4821ca2b86e.png)
@@ -71,8 +71,18 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 ![Screenshot 2](https://user-images.githubusercontent.com/104465906/167313779-d106b636-607c-4f64-89b0-f7be66c3824b.png)
 
 - **Sprint Review**: 
+Alınan kararlar: Kullanıcıların giriş yaparak uygulama içerisinde ilerleyebilmesi için veritabanı oluşturulması gerektiğine karar verildi. Uygulama içerisinde renk değişimleri ve fotoğraf eklentileri yapılmasına karar verilmiş ve bu özelliklerin diğer sprintte tamamlanması uygun görülmüştür. Çıkan ürünün çalışmasında herhangi bir sorun görülmemiştir. Ekstra koyulacak özellikler belirlenmiş ve "Campus Page" sayfasında gerek görülmesi halinde butonların yerlerinin değiştirilmesine karar verilmiştir.
+Sprint Review katılımcıları:
+  - Erinç Çetin
+  - Hatice Deveci
+  - Fatma Pasin
+  - Beyzanur Yeşilyurt
+  - Beyza Nur Aslanhan
 
 - **Sprint Retrospective:**
+  - Takım içindeki görev dağılımı hakkında ufak düzenlemeler yapılması kararı alınmıştır.
+  - Daily Scrum toplanıları için daha sıkı bir düzen kurulması gerekmektedir.
+  - Uygulamanın kodlaması için ayrılan saat arttırılmalıdır.
 
 -**Diğer Notlar**:
 - N/A
