@@ -48,15 +48,17 @@ Kampüste Ne Yenir?
 
 # Sprint 1
 
-- **Sprint Notları**: 
+- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 
+- **Sprint içinde tamamlanması tahmin edilen puan**: 50 Puan
 
-- **Puan tamamlama mantığı**: 
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken  puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 50 ile başlaması gerektiğine karar verildi.
 
-- **Backlog düzeni ve Story seçimleri**: 
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
 
-- **Daily Scrum**: 
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken mavi item'lar yapılacak işleri (task) gösterirken, kırmızı item'lar story'leri temsil etmektedir.
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord üzerinden sesli veya yazılı konuşmalar olacak şekilde yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://yalova-my.sharepoint.com/:w:/g/personal/200101044_ogrenci_yalova_edu_tr/EUqK7X29N4pGg4uWdaMPg7MBFTWh7kq5eoZeY7IVIaYvhQ?e=IZd4K2)
 
 - **Sprint board update**:
 
