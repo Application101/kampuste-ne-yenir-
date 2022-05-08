@@ -73,11 +73,11 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 - **Sprint Review**: 
 Alınan kararlar: Kullanıcıların giriş yaparak uygulama içerisinde ilerleyebilmesi için veritabanı oluşturulması gerektiğine karar verildi. Uygulama içerisinde renk değişimleri ve fotoğraf eklentileri yapılmasına karar verilmiş ve bu özelliklerin diğer sprintte tamamlanması uygun görülmüştür. Çıkan ürünün çalışmasında herhangi bir sorun görülmemiştir. Ekstra koyulacak özellikler belirlenmiş ve "Campus Page" sayfasında gerek görülmesi halinde butonların yerlerinin değiştirilmesine karar verilmiştir.
 Sprint Review katılımcıları:
-  - Erinç Çetin
-  - Hatice Deveci
-  - Fatma Pasin
-  - Beyzanur Yeşilyurt
-  - Beyza Nur Aslanhan
+ -- Erinç Çetin
+ -- Hatice Deveci
+ -- Fatma Pasin
+ -- Beyzanur Yeşilyurt
+ -- Beyza Nur Aslanhan
 
 - **Sprint Retrospective:**
   - Takım içindeki görev dağılımı hakkında ufak düzenlemeler yapılması kararı alınmıştır.
