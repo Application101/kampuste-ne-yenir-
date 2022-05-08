@@ -18,27 +18,27 @@ Kampüste Ne Yenir?
 
 ## Ürün Açıklaması
 
--Kampüste ne yenir uygulamamız ile kullanıcıların seçtikleri kampüs içerisindeki restoranları kolaylıkla bulabilmesini sağlayacağız. Kullanıcılar kampüs içerisinde bulunan restoranlar hakkında değerlendirmede bulunabilecekler ve böylece kendi tarzlarına uygun olan restoranları da net bir şekilde görüntüleyebilecekler. Bu uygulamamız sayesinde kampüse ilk defa gelmiş olan birçok kişi rahat bir şekilde ne yiyebileceğine karar verebilecek.
+- Kampüste ne yenir uygulamamız ile kullanıcıların seçtikleri kampüs içerisindeki restoranları kolaylıkla bulabilmesini sağlayacağız. Kullanıcılar kampüs içerisinde bulunan restoranlar hakkında değerlendirmede bulunabilecekler ve böylece kendi tarzlarına uygun olan restoranları da net bir şekilde görüntüleyebilecekler. Bu uygulamamız sayesinde kampüse ilk defa gelmiş olan birçok kişi rahat bir şekilde ne yiyebileceğine karar verebilecek.
 
 ## Ürün Özellikleri
 
--Anonim şekilde veya giriş yaparak uygulamayı kullanabilme
--Kampüs seçebilme
--Listeden veya haritadan istedikleri restoranı seçebilme
--En yakın restoranı görüntüleyebilme
--Random şekilde restoran seçimi yapabilme
--Seçilen restoranın fotoğraflarını görüntüleyebilme
--Seçilen restoran hakkında yorum yapabilme ve yapılan yorumları değerlendirebilme
--Seçilen restoranları filtreleyebilme
--Seçilen restoranın bulunduğu konumu görebilme
--Restoran indirimlerini görüntüleyebilme
+- Anonim şekilde veya giriş yaparak uygulamayı kullanabilme
+- Kampüs seçebilme
+- Listeden veya haritadan istedikleri restoranı seçebilme
+- En yakın restoranı görüntüleyebilme
+- Random şekilde restoran seçimi yapabilme
+- Seçilen restoranın fotoğraflarını görüntüleyebilme
+- Seçilen restoran hakkında yorum yapabilme ve yapılan yorumları değerlendirebilme
+- Seçilen restoranları filtreleyebilme
+- Seçilen restoranın bulunduğu konumu görebilme
+- Restoran indirimlerini görüntüleyebilme
 
 ## Hedef Kitle
 
--Üniversite öğrencileri
--Üniversite personelleri
--Üniversite hocaları
--Üniversiteyi ziyarette bulunan kişiler
+- Üniversite öğrencileri
+- Üniversite personelleri
+- Üniversite hocaları
+- Üniversiteyi ziyarette bulunan kişiler
 
 ## Product Backlog URL
 
