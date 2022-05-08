@@ -60,7 +60,10 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord üzerinden sesli veya yazılı konuşmalar olacak şekilde yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://yalova-my.sharepoint.com/:w:/g/personal/200101044_ogrenci_yalova_edu_tr/EUqK7X29N4pGg4uWdaMPg7MBFTWh7kq5eoZeY7IVIaYvhQ?e=IZd4K2)
 
-- **Sprint board update**:
+- **Sprint board update**: Sprint board screenshotları:
+![Backlog 1](https://user-images.githubusercontent.com/104465906/167313602-43551506-a99a-40d1-8ef0-b4821ca2b86e.png)
+![Backlog 1](https://user-images.githubusercontent.com/104465906/167313632-202cfa16-5844-47a9-bc7e-d2a7b5d930e2.png)
+![Backlog 2](https://user-images.githubusercontent.com/104465906/167313647-9d007759-aeaf-40e6-a2f4-6553d4cf32c1.png)
 
 - **Ürün Durumu**:
 
