@@ -18,12 +18,12 @@ Kampüste Ne Yenir?
 
 ## Ürün Açıklaması
 
-- Kampüste ne yenir uygulamamız ile kullanıcıların seçtikleri kampüs içerisindeki restoranları kolaylıkla bulabilmesini sağlayacağız. Kullanıcılar kampüs içerisinde bulunan restoranlar hakkında değerlendirmede bulunabilecekler ve böylece kendi tarzlarına uygun olan restoranları da net bir şekilde görüntüleyebilecekler. Bu uygulamamız sayesinde kampüse ilk defa gelmiş olan birçok kişi rahat bir şekilde ne yiyebileceğine karar verebilecek.
+- Kampüste ne yenir uygulamamız ile kullanıcıların seçtikleri kampüs içerisindeki restoranları kolaylıkla bulabilmesini sağlayacağız. Kullanıcılar kampüs içerisinde bulunan restoranlar hakkında değerlendirmede bulunabilecekler ve böylece kendi tarzlarına uygun olan restoranları da net bir şekilde görüntüleyebilme imkanına sahip olacaklar. Bu uygulamamız sayesinde kampüse ilk defa gelmiş olan birçok kişi rahat bir şekilde ne yiyebileceğine karar verebilecek.
 
 ## Ürün Özellikleri
 
 - Anonim şekilde veya giriş yaparak uygulamayı kullanabilme
-- Kampüs seçebilme
+- Kampüs seçimi yapabilme
 - Listeden veya haritadan istedikleri restoranı seçebilme
 - En yakın restoranı görüntüleyebilme
 - Random şekilde restoran seçimi yapabilme
@@ -52,7 +52,7 @@ Kampüste Ne Yenir?
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 50 Puan
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 180 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 50 ile başlaması gerektiğine karar verildi.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 180 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 50 puan ile başlaması gerektiğine karar verildi.
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
 
@@ -67,8 +67,8 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 - **Ürün Durumu**: Ekran görüntüleri:
 
-![Screenshot 1](https://user-images.githubusercontent.com/104465906/167313750-43df5894-cb6e-4d73-a8de-5dcd298d0c6a.png)
-![Screenshot 2](https://user-images.githubusercontent.com/104465906/167313779-d106b636-607c-4f64-89b0-f7be66c3824b.png)
+ ![Screenshot 1](https://user-images.githubusercontent.com/104465906/167313750-43df5894-cb6e-4d73-a8de-5dcd298d0c6a.png)
+ ![Screenshot 2](https://user-images.githubusercontent.com/104465906/167313779-d106b636-607c-4f64-89b0-f7be66c3824b.png)
 
 - **Sprint Review**: 
 Alınan kararlar: Kullanıcıların giriş yaparak uygulama içerisinde ilerleyebilmesi için veritabanı oluşturulması gerektiğine karar verildi. Uygulama içerisinde renk değişimleri ve fotoğraf eklentileri yapılmasına karar verilmiş ve bu özelliklerin diğer sprintte tamamlanması uygun görülmüştür. Çıkan ürünün çalışmasında herhangi bir sorun görülmemiştir. Ekstra koyulacak özellikler belirlenmiş ve "Campus Page" sayfasında gerek görülmesi halinde butonların yerlerinin değiştirilmesine karar verilmiştir.
