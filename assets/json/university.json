@@ -1,7 +1,6 @@
 [
   {
     "index": 0,
-    "about": "text text text",
     "restaurants": [
       "Cansimidi",
       "Hausburger"
@@ -10,7 +9,6 @@
   },
   {
     "index": 1,
-    "about": "text text text",
     "restaurants": [
       "Taşbina",
       "Monti Food Coffee"
@@ -19,7 +17,6 @@
   },
   {
     "index": 2,
-    "about": "text text text",
     "restaurants": [
       "Taşbina",
       "Monti Food Coffee"
@@ -27,8 +24,7 @@
     "name": "Ankara Üniversitesi"
   },
   {
-    "index": 1,
-    "about": "text text text",
+    "index": 3,
     "restaurants": [
       "Ata Cafe",
       "Tarçın Cafe"
@@ -36,8 +32,7 @@
     "name": "Atatürk Üniversitesi"
   },
   {
-    "index": 2,
-    "about": "text text text",
+    "index": 4,
     "restaurants": [
       "La Liberta Plus",
       "The Concrete House"
@@ -45,8 +40,7 @@
     "name": "Boğaziçi Üniversitesi Kuzey Kampüs"
   },
   {
-    "index": 0,
-    "about": "text text text",
+    "index": 5,
     "restaurants": [
       "Niche Cafe Restaurant",
       "Kennedy Lodge"
@@ -54,8 +48,7 @@
     "name": "Boğaziçi Üniversitesi Güney Kampüs"
   },
   {
-    "index": 1,
-    "about": "text text text",
+    "index": 6,
     "restaurants": [
       "Betoon Coffee",
       "Meşeli Mutfak"
@@ -63,8 +56,7 @@
     "name": "Bolu Abant İzzet Baysal Üniversitesi"
   },
   {
-    "index": 2,
-    "about": "text text text",
+    "index": 7,
     "restaurants": [
       "Balkan Sofrası",
       "Mimoza Cafe Fast Food"
@@ -72,8 +64,7 @@
     "name": "Bursa Uludağ Üniversitesi"
   },
   {
-    "index": 0,
-    "about": "text text text",
+    "index": 8,
     "restaurants": [
       "Amfi Balkon Cafe",
       "Hancock Cafe"
@@ -81,8 +72,7 @@
     "name": "Çanakkale Onsekiz Mart Üniversitesi"
   },
   {
-    "index": 1,
-    "about": "text text text",
+    "index": 9,
     "restaurants": [
       "Soulmate Coffe",
       "Aqua Cafe"
@@ -90,8 +80,7 @@
     "name": "Çukurova Üniversitesi"
   },
   {
-    "index": 2,
-    "about": "text text text",
+    "index": 10,
     "restaurants": [
       "Murano's Kitchen",
       "Özsüt Select",
@@ -101,8 +90,7 @@
     "name": "Dokuz Eylül Üniversitesi"
   },
   {
-    "index": 0,
-    "about": "text text text",
+    "index": 11,
     "restaurants": [
       "Espressolab Ege Üniversitesi",
       "Take & Rest Coffee"
@@ -110,8 +98,7 @@
     "name": "Ege Üniversitesi"
   },
   {
-    "index": 1,
-    "about": "text text text",
+    "index": 12,
     "restaurants": [
       "Servet Cafe Restaurant Bahçe",
       "Elma Cafe&Bistro"
@@ -119,8 +106,7 @@
     "name": "Eskişehir Osmangazi Üniversitesi"
   },
   {
-    "index": 2,
-    "about": "text text text",
+    "index": 13,
     "restaurants": [
       "Acun Tantuni",
       "Hot kumru"
@@ -128,8 +114,7 @@
     "name": "Gazi Üniversitesi"
   },
   {
-    "index": 0,
-    "about": "text text text",
+    "index": 14,
     "restaurants": [
       "Beyaz Ev Restorant",
       "Vadi Restoran",
@@ -138,8 +123,7 @@
     "name": "Hacettepe Üniversitesi"
   },
   {
-    "index": 1,
-    "about": "text text text",
+    "index": 15,
     "restaurants": [
       "Fanfan Cafe",
       "Selfiş Sütiş",
@@ -148,8 +132,7 @@
     "name": "İstanbul Teknik Üniversitesi"
   },
   {
-    "index": 2,
-    "about": "text text text",
+    "index": 16,
     "restaurants": [
       "Sütlü Kahve",
       "Vefakar Cafe"
@@ -157,8 +140,7 @@
     "name": "İstanbul Üniversitesi"
   },
   {
-    "index": 0,
-    "about": "text text text",
+    "index": 17,
     "restaurants": [
       "Umut Kafe",
       "Ada Kafe"
@@ -166,8 +148,7 @@
     "name": "Kocaeli Üniversitesi"
   },
   {
-    "index": 1,
-    "about": "text text text",
+    "index": 18,
     "restaurants": [
       "Starbucks",
       "Marinara Pizza",
@@ -176,8 +157,7 @@
     "name": "Marmara Üniversitesi"
   },
   {
-    "index": 2,
-    "about": "text text text",
+    "index": 19,
     "restaurants": [
       "Taste Street Food",
       "Black Sea Cafe"
@@ -185,8 +165,7 @@
     "name": "Ordu Üniversitesi"
   },
   {
-    "index": 0,
-    "about": "text text text",
+    "index": 20,
     "restaurants": [
       "Barikat",
       "Sunshine"
@@ -194,8 +173,7 @@
     "name": "Orta Doğu Teknik Üniversitesi"
   },
   {
-    "index": 1,
-    "about": "text text text",
+    "index": 21,
     "restaurants": [
       "Durak Kafe",
       "Adıbahçe"
@@ -203,8 +181,7 @@
     "name": "Sakarya Üniversitesi"
   },
   {
-    "index": 2,
-    "about": "text text text",
+    "index": 22,
     "restaurants": [
       "Petula Kahvaltı & Restaurant",
       "Organica Restaurant"
