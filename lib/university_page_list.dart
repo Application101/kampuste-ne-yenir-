@@ -67,7 +67,12 @@ class _UniversityPageListState extends State<UniversityPageList> {
                             Navigator.push(context,
                                 MaterialPageRoute(builder: (context) => RestaurantsPageList(snapshot.data[index])));
                           },
-                            title: Text(snapshot.data[index].name),
+                            title: Padding(
+                              padding: const EdgeInsets.all(16.0),
+                              child: Text(snapshot.data[index].name, style: const TextStyle(
+                                fontSize: 18,
+                              ),),
+                            ),
                           ) : Container();
                         },
                         separatorBuilder: (BuildContext context, int index) {
