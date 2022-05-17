@@ -1,10 +1,9 @@
 import 'package:flutter/material.dart';
-import 'dart:async';
-
+import 'package:kampuste_ne_yenir/restaurant_detail_page.dart';
 import 'model/university_model.dart';
 
 class RestaurantsPageList extends StatefulWidget {
-  final University university;
+  final university;
 
   const RestaurantsPageList(this.university);
 
@@ -34,7 +33,10 @@ class _RestaurantsPageListState extends State<RestaurantsPageList> {
             itemCount: widget.university.restaurants.length,
             itemBuilder: (BuildContext context, int index) {
               return  ListTile(
-                onTap: () {},
+                onTap: () {
+                  Navigator.push(context,
+                      MaterialPageRoute(builder: (context) => RestaurantDetailPage(widget.university.restaurants[index])));
+                },
                 title: Padding(
                   padding: const EdgeInsets.all(16.0),
                   child: Text(widget.university.restaurants[index], style: const TextStyle(
