@@ -1,0 +1,214 @@
+[
+  {
+    "index": 0,
+    "about": "text text text",
+    "restaurants": [
+      "Cansimidi",
+      "Hausburger"
+    ],
+    "name": "Akdeniz Üniversitesi"
+  },
+  {
+    "index": 1,
+    "about": "text text text",
+    "restaurants": [
+      "Taşbina",
+      "Monti Food Coffee"
+    ],
+    "name": "Anadolu Üniversitesi"
+  },
+  {
+    "index": 2,
+    "about": "text text text",
+    "restaurants": [
+      "Taşbina",
+      "Monti Food Coffee"
+    ],
+    "name": "Ankara Üniversitesi"
+  },
+  {
+    "index": 1,
+    "about": "text text text",
+    "restaurants": [
+      "Ata Cafe",
+      "Tarçın Cafe"
+    ],
+    "name": "Atatürk Üniversitesi"
+  },
+  {
+    "index": 2,
+    "about": "text text text",
+    "restaurants": [
+      "La Liberta Plus",
+      "The Concrete House"
+    ],
+    "name": "Boğaziçi Üniversitesi Kuzey Kampüs"
+  },
+  {
+    "index": 0,
+    "about": "text text text",
+    "restaurants": [
+      "Niche Cafe Restaurant",
+      "Kennedy Lodge"
+    ],
+    "name": "Boğaziçi Üniversitesi Güney Kampüs"
+  },
+  {
+    "index": 1,
+    "about": "text text text",
+    "restaurants": [
+      "Betoon Coffee",
+      "Meşeli Mutfak"
+    ],
+    "name": "Bolu Abant İzzet Baysal Üniversitesi"
+  },
+  {
+    "index": 2,
+    "about": "text text text",
+    "restaurants": [
+      "Balkan Sofrası",
+      "Mimoza Cafe Fast Food"
+    ],
+    "name": "Bursa Uludağ Üniversitesi"
+  },
+  {
+    "index": 0,
+    "about": "text text text",
+    "restaurants": [
+      "Amfi Balkon Cafe",
+      "Hancock Cafe"
+    ],
+    "name": "Çanakkale Onsekiz Mart Üniversitesi"
+  },
+  {
+    "index": 1,
+    "about": "text text text",
+    "restaurants": [
+      "Soulmate Coffe",
+      "Aqua Cafe"
+    ],
+    "name": "Çukurova Üniversitesi"
+  },
+  {
+    "index": 2,
+    "about": "text text text",
+    "restaurants": [
+      "Murano's Kitchen",
+      "Özsüt Select",
+      "Veli Usta Körfez",
+      "Ristorante Pizzeria Venedik"
+    ],
+    "name": "Dokuz Eylül Üniversitesi"
+  },
+  {
+    "index": 0,
+    "about": "text text text",
+    "restaurants": [
+      "Espressolab Ege Üniversitesi",
+      "Take & Rest Coffee"
+    ],
+    "name": "Ege Üniversitesi"
+  },
+  {
+    "index": 1,
+    "about": "text text text",
+    "restaurants": [
+      "Servet Cafe Restaurant Bahçe",
+      "Elma Cafe&Bistro"
+    ],
+    "name": "Eskişehir Osmangazi Üniversitesi"
+  },
+  {
+    "index": 2,
+    "about": "text text text",
+    "restaurants": [
+      "Acun Tantuni",
+      "Hot kumru"
+    ],
+    "name": "Gazi Üniversitesi"
+  },
+  {
+    "index": 0,
+    "about": "text text text",
+    "restaurants": [
+      "Beyaz Ev Restorant",
+      "Vadi Restoran",
+      "Geyik Kafe"
+    ],
+    "name": "Hacettepe Üniversitesi"
+  },
+  {
+    "index": 1,
+    "about": "text text text",
+    "restaurants": [
+      "Fanfan Cafe",
+      "Selfiş Sütiş",
+      "Kampüs Cafe"
+    ],
+    "name": "İstanbul Teknik Üniversitesi"
+  },
+  {
+    "index": 2,
+    "about": "text text text",
+    "restaurants": [
+      "Sütlü Kahve",
+      "Vefakar Cafe"
+    ],
+    "name": "İstanbul Üniversitesi"
+  },
+  {
+    "index": 0,
+    "about": "text text text",
+    "restaurants": [
+      "Umut Kafe",
+      "Ada Kafe"
+    ],
+    "name": "Kocaeli Üniversitesi"
+  },
+  {
+    "index": 1,
+    "about": "text text text",
+    "restaurants": [
+      "Starbucks",
+      "Marinara Pizza",
+      "Göztepe Kahvesi"
+    ],
+    "name": "Marmara Üniversitesi"
+  },
+  {
+    "index": 2,
+    "about": "text text text",
+    "restaurants": [
+      "Taste Street Food",
+      "Black Sea Cafe"
+    ],
+    "name": "Ordu Üniversitesi"
+  },
+  {
+    "index": 0,
+    "about": "text text text",
+    "restaurants": [
+      "Barikat",
+      "Sunshine"
+    ],
+    "name": "Orta Doğu Teknik Üniversitesi"
+  },
+  {
+    "index": 1,
+    "about": "text text text",
+    "restaurants": [
+      "Durak Kafe",
+      "Adıbahçe"
+    ],
+    "name": "Sakarya Üniversitesi"
+  },
+  {
+    "index": 2,
+    "about": "text text text",
+    "restaurants": [
+      "Petula Kahvaltı & Restaurant",
+      "Organica Restaurant"
+    ],
+    "name": "Yalova Üniversitesi"
+  }
+]

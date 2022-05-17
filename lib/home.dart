@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'campus_page_list.dart';
+import 'university_page_list.dart';
 
 class CampusApp extends StatefulWidget {
   const CampusApp({Key? key}) : super(key: key);
@@ -35,7 +35,7 @@ class _CampusAppState extends State<CampusApp> {
               onPressed: () {
                 Navigator.push(
                   context,
-                  MaterialPageRoute(builder: (context) => CampusPage()),
+                  MaterialPageRoute(builder: (context) => UniversityPageList()),
                 );
               },
               child: const Padding(
@@ -51,7 +51,7 @@ class _CampusAppState extends State<CampusApp> {
               onPressed: () {
                 Navigator.push(
                   context,
-                  MaterialPageRoute(builder: (context) => CampusPage()),
+                  MaterialPageRoute(builder: (context) => UniversityPageList()),
                 );
               },
               child: const Padding(
