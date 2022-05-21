@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "208298171362",
+    "project_id": "kampuste-ne-yenir",
+    "storage_bucket": "kampuste-ne-yenir.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208298171362:android:0bd65cb73cc65e1855f7bb",
+        "android_client_info": {
+          "package_name": "com.example.kampuste_ne_yenir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208298171362-9n3dotjn7mt28ni2sqvjt79aqpfu82hc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kampuste_ne_yenir",
+            "certificate_hash": "e2f0abb27affa9146361cb8a616a8373d1c30b20"
+          }
+        },
+        {
+          "client_id": "208298171362-35muvju9u25t3cn90del10rr3c03drcj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPdi5p0ZEpdn_vjmAzww_zKGjFS5XtMqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208298171362-35muvju9u25t3cn90del10rr3c03drcj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "208298171362-ltli0ihq78mqdcpbt0945iftjvhpcm1g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kampusteNeYenir"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
