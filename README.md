@@ -100,7 +100,7 @@ Sprint Review katılımcıları:
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken mavi item'lar yapılacak işleri (task) gösterirken, kırmızı item'lar story'leri temsil etmektedir.
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord üzerinden sesli veya yazılı konuşmalar olacak şekilde yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır:
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord üzerinden sesli veya yazılı konuşmalar olacak şekilde yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://yalova-my.sharepoint.com/:w:/g/personal/200101044_ogrenci_yalova_edu_tr/EUPZPNWC0mZKpdUfYaqxVHUBiClPRd5TfBYruDHcvAGU6w?e=vnjJRV)
 
 - **Sprint board update**: Sprint board screenshotları:
 
