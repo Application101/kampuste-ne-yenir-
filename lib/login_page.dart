@@ -14,7 +14,14 @@ class _LoginPageState extends State<LoginPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: Colors.grey[200],
-      body: SafeArea(
+      body: Container(
+      decoration: BoxDecoration(
+       image: DecorationImage(
+        image: AssetImage('images/campusimages.jpg'),
+         fit: BoxFit.cover
+          )
+          ),
+       child: SafeArea(
         child: Center(
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
@@ -132,6 +139,7 @@ class _LoginPageState extends State<LoginPage> {
           ),
         ),
       ),
+     ),
     );
   }
 }
