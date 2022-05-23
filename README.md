@@ -132,13 +132,11 @@ Sprint Review katılımcıları:
 -Beyzanur Yeşilyurt
 -Beyza Nur Aslanhan
 
-- **Sprint Retrospective:**
-
-Toplantı Tarihi: 22/05/2022
-  -- Uygulamanın kodlanması için harcanan efor arttırılmalı ve uygulamanın geri kalan kısmının en iyi şekilde kodlanabilmesi için developerlara düzenli zaman dilimleri oluşturulmalıdır.
-  -- Daily Scrum toplanılarına gösterilen özen daha da artarak devam etmelidir.
-  -- Uygulamanın belli kısımlarının kodlanma aşamasında developerların ikişerli gruplara ayrılarak çalışması gerekmektedir.
-  -- Bir sonraki sprint planlama toplantısında uygulamanın eksiksiz tamamlanabilmesi için görev dağılımlarında ufak değişiklikler yapılması gerekmektedir.
+- **Sprint Retrospective:** Toplantı Tarihi: 22/05/2022
+  - Uygulamanın kodlanması için harcanan efor arttırılmalı ve uygulamanın geri kalan kısmının en iyi şekilde kodlanabilmesi için developerlara düzenli zaman dilimleri oluşturulmalıdır.
+  - Daily Scrum toplanılarına gösterilen özen daha da artarak devam etmelidir.
+  - Uygulamanın belli kısımlarının kodlanma aşamasında developerların ikişerli gruplara ayrılarak çalışması gerekmektedir.
+  - Bir sonraki sprint planlama toplantısında uygulamanın eksiksiz tamamlanabilmesi için görev dağılımlarında ufak değişiklikler yapılması gerekmektedir.
 
 -**Diğer Notlar**:
 - N/A
