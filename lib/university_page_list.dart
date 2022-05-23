@@ -19,7 +19,7 @@ class _UniversityPageListState extends State<UniversityPageList> {
 
   Future<List<University>> _getUniversityInfo() async {
     var data = await DefaultAssetBundle.of(context).loadString("assets/json/university.json");
-    return userFromJson(data);
+    return universityFromJson(data);
   }
 
   @override

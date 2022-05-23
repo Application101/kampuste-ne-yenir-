@@ -2,189 +2,545 @@
   {
     "index": 0,
     "restaurants": [
-      "Cansimidi",
-      "Hausburger"
+      {
+        "restaurant_name" : "Cansimidi",
+        "photo_url" : "https://fastly.4sqi.net/img/general/width960/64174745_o9fdAc_RZb9e3He5Ex2tcgKpIvdq58VkBLUFxtZtQkA.jpg",
+        "description" : "Burası insanların tam anlamıyla üniversiteyi tattığı bir yerdir. Uzun uzun sohbetlerin çay eşliğinde arttığı bir simitçi. Sesli müziklerden uzak keyifli bir mekan.",
+        "comments" : [
+          "Peynirli domatesli kumru cok iyi soslarla daha da lezzetli hale geliyor. Nefis çay ve hizli servis güzel simit candir.",
+          "Üniversitedeki en güzel kantin burasıdır. Özel işletme olsa da okulun kantini gibi uygun fiyatlı ve rahat."
+        ]
+      },
+      {
+        "restaurant_name" : "Hausburger",
+        "photo_url" : "https://fastly.4sqi.net/img/general/600x600/69126127_hj6ymO9IiemXsC1IGgxxAO1oSJJRG7R9x42idIgU_jg.jpg",
+        "description" : "Lezzetli hamburgerleriyle unutulmayacak anlar",
+        "comments" : [
+          "Son dönemde Antalya'da yediğim en iyi burger. Tek eksiği patatesi. Yine de tam bir fine dining.",
+          "Böyle bir lezzet yok. Dana beef Burger'i tavsiye ederim. Fiyatlar biraz daha makul olabilirdi. Onun dışında herşey harika."
+        ]
+      }
     ],
     "name": "Akdeniz Üniversitesi"
   },
   {
     "index": 1,
     "restaurants": [
-      "Taşbina",
-      "Monti Food Coffee"
+      {
+        "restaurant_name" : "Taşbina",
+        "photo_url" : "https://www.anadolu.edu.tr/uploads/anadolu/images/slider/54a3f2eb3775a.JPG",
+        "description" : "Taşbina açıklama",
+        "comments" : [
+          "Yemekleri gercekten cok guzel günlük menüleri haricinde mangal seçenekleri de mevcut. Son gittiğimde kereviz yedim gerçekten cok lezzetliydi yolunuz düşerse kesinlikle tercih edebilirsiniz.",
+          "Otantik bir ortamda ve uygun fiyata farklı lezzetleri ve tatları deneyimlemek için güzel bir mekan."
+        ]
+      },
+      {
+        "restaurant_name" : "Monti Food Coffee",
+        "photo_url" : "https://ilan.eskisehir.net/CDN/Images/Place/monti-food-coffee_2dd0fc28-76ed-49fd-b325-ce44a3263152.jpg",
+        "description" : "Monti Food Coffee açıklama",
+        "comments": [
+
+        ]
+      }
     ],
     "name": "Anadolu Üniversitesi"
   },
   {
-    "index": 2,
+    "index": 1,
     "restaurants": [
-      "Taşbina",
-      "Monti Food Coffee"
+      {
+        "restaurant_name" : "Ziraat Cafe & Bistro",
+        "photo_url" : "https://fastly.4sqi.net/img/general/600x600/121715467_bkAna4q8aeosIx0HCI6HckLpiEhzFe2uzDBNxQhrToQ.jpg",
+        "description" : "Ziraat Cafe & Bistro açıklama",
+        "comments": [
+          "Koltuklar rahat, öğrenci dostu mekan. Süslemeleri gayet fotoğrafsever. Fon alanları yaratmışlar. Çalışanlar genç ve maskesiz malesef. Girişten itibaren kahve kokusu mutlu hissetmenize yetiyor. Kampüsün büyülü yeşilliğine bakarak dinlenme fırsatını kaçırmayın.",
+          "Salaş ve loş bir ortamı var ama güzel ve sakin bir yer, arkadaşlarla oturup kaliteli vakit geçirebilirsiniz zira okulun İnterneti cayır cayır çekmekte lakin fiyatlar uçmuş dolayısıyla bir çaya 10 TL vermek sinir bozucu olabilir, haftada bir gidilmelik güzel mekan."
+        ]
+      },
+      {
+        "restaurant_name" : "Mozart Cafe",
+        "photo_url" : "https://fastly.4sqi.net/img/general/600x600/124730542_GTo-xRqr2Bkc36VcBM6fwpiRY59kN5Pxq02V6a3Hp1E.jpg",
+        "description" : "Mozart Cafe açıklama",
+        "comments": [
+          "Ben hiç gitmedim ama kahvemi burdan alıyorum. Bu yüzden yazmak istiyorum. Öncelikle WhatsApp uygulamasından kolaylıkla sipariş verebiliyorsunuz, sizin tüm sorularınızı anında cevaplıyorlar. Hiç bekletmeden de gönderiyorlar",
+          "Mezun olalı 12 sene oldu. Hâlâ buranın kahve ve cookie'si çok daha leziz geliyor. Güler yüzleri de cabası... Ellerinize ve yüreğinize sağlık, ne zaman Ankara'ya gelsem kesinlikle bir cookie-kahve benim klasiğimdir.."
+        ]
+      }
     ],
     "name": "Ankara Üniversitesi"
   },
   {
-    "index": 3,
+    "index": 0,
     "restaurants": [
-      "Ata Cafe",
-      "Tarçın Cafe"
+      {
+        "restaurant_name" : "Cansimidi",
+        "photo_url" : "https://fastly.4sqi.net/img/general/width960/64174745_o9fdAc_RZb9e3He5Ex2tcgKpIvdq58VkBLUFxtZtQkA.jpg",
+        "description" : "Burası insanların tam anlamıyla üniversiteyi tattığı bir yerdir. Uzun uzun sohbetlerin çay eşliğinde arttığı bir simitçi. Sesli müziklerden uzak keyifli bir mekan.",
+        "comments" : [
+          "Peynirli domatesli kumru cok iyi soslarla daha da lezzetli hale geliyor. Nefis çay ve hizli servis güzel simit candir.",
+          "Üniversitedeki en güzel kantin burasıdır. Özel işletme olsa da okulun kantini gibi uygun fiyatlı ve rahat."
+        ]
+      },
+      {
+        "restaurant_name" : "Hausburger",
+        "photo_url" : "https://fastly.4sqi.net/img/general/600x600/69126127_hj6ymO9IiemXsC1IGgxxAO1oSJJRG7R9x42idIgU_jg.jpg",
+        "description" : "Lezzetli hamburgerleriyle unutulmayacak anlar",
+        "comments" : [
+          "Son dönemde Antalya'da yediğim en iyi burger. Tek eksiği patatesi. Yine de tam bir fine dining.",
+          "Böyle bir lezzet yok. Dana beef Burger'i tavsiye ederim. Fiyatlar biraz daha makul olabilirdi. Onun dışında herşey harika."
+        ]
+      }
     ],
     "name": "Atatürk Üniversitesi"
   },
   {
-    "index": 4,
+    "index": 1,
     "restaurants": [
-      "La Liberta Plus",
-      "The Concrete House"
+      {
+        "restaurant_name" : "Taşbina",
+        "photo_url" : "https://www.anadolu.edu.tr/uploads/anadolu/images/slider/54a3f2eb3775a.JPG",
+        "description" : "Taşbina açıklama",
+        "comments" : [
+          "Yemekleri gercekten cok guzel günlük menüleri haricinde mangal seçenekleri de mevcut. Son gittiğimde kereviz yedim gerçekten cok lezzetliydi yolunuz düşerse kesinlikle tercih edebilirsiniz.",
+          "Otantik bir ortamda ve uygun fiyata farklı lezzetleri ve tatları deneyimlemek için güzel bir mekan."
+        ]
+      },
+      {
+        "restaurant_name" : "Monti Food Coffee",
+        "photo_url" : "https://ilan.eskisehir.net/CDN/Images/Place/monti-food-coffee_2dd0fc28-76ed-49fd-b325-ce44a3263152.jpg",
+        "description" : "Monti Food Coffee açıklama",
+        "comments": [
+
+        ]
+      }
     ],
-    "name": "Boğaziçi Üniversitesi Kuzey Kampüs"
+    "name": "Boğaziçi Üniversitesi Kuzey Kampüsü"
   },
   {
-    "index": 5,
+    "index": 1,
     "restaurants": [
-      "Niche Cafe Restaurant",
-      "Kennedy Lodge"
+      {
+        "restaurant_name" : "Ziraat Cafe & Bistro",
+        "photo_url" : "https://fastly.4sqi.net/img/general/600x600/121715467_bkAna4q8aeosIx0HCI6HckLpiEhzFe2uzDBNxQhrToQ.jpg",
+        "description" : "Ziraat Cafe & Bistro açıklama",
+        "comments": [
+          "Koltuklar rahat, öğrenci dostu mekan. Süslemeleri gayet fotoğrafsever. Fon alanları yaratmışlar. Çalışanlar genç ve maskesiz malesef. Girişten itibaren kahve kokusu mutlu hissetmenize yetiyor. Kampüsün büyülü yeşilliğine bakarak dinlenme fırsatını kaçırmayın.",
+          "Salaş ve loş bir ortamı var ama güzel ve sakin bir yer, arkadaşlarla oturup kaliteli vakit geçirebilirsiniz zira okulun İnterneti cayır cayır çekmekte lakin fiyatlar uçmuş dolayısıyla bir çaya 10 TL vermek sinir bozucu olabilir, haftada bir gidilmelik güzel mekan."
+        ]
+      },
+      {
+        "restaurant_name" : "Mozart Cafe",
+        "photo_url" : "https://fastly.4sqi.net/img/general/600x600/124730542_GTo-xRqr2Bkc36VcBM6fwpiRY59kN5Pxq02V6a3Hp1E.jpg",
+        "description" : "Mozart Cafe açıklama",
+        "comments": [
+          "Ben hiç gitmedim ama kahvemi burdan alıyorum. Bu yüzden yazmak istiyorum. Öncelikle WhatsApp uygulamasından kolaylıkla sipariş verebiliyorsunuz, sizin tüm sorularınızı anında cevaplıyorlar. Hiç bekletmeden de gönderiyorlar",
+          "Mezun olalı 12 sene oldu. Hâlâ buranın kahve ve cookie'si çok daha leziz geliyor. Güler yüzleri de cabası... Ellerinize ve yüreğinize sağlık, ne zaman Ankara'ya gelsem kesinlikle bir cookie-kahve benim klasiğimdir.."
+        ]
+      }
     ],
     "name": "Boğaziçi Üniversitesi Güney Kampüs"
   },
   {
-    "index": 6,
+    "index": 0,
     "restaurants": [
-      "Betoon Coffee",
-      "Meşeli Mutfak"
+      {
+        "restaurant_name" : "Cansimidi",
+        "photo_url" : "https://fastly.4sqi.net/img/general/width960/64174745_o9fdAc_RZb9e3He5Ex2tcgKpIvdq58VkBLUFxtZtQkA.jpg",
+        "description" : "Burası insanların tam anlamıyla üniversiteyi tattığı bir yerdir. Uzun uzun sohbetlerin çay eşliğinde arttığı bir simitçi. Sesli müziklerden uzak keyifli bir mekan.",
+        "comments" : [
+          "Peynirli domatesli kumru cok iyi soslarla daha da lezzetli hale geliyor. Nefis çay ve hizli servis güzel simit candir.",
+          "Üniversitedeki en güzel kantin burasıdır. Özel işletme olsa da okulun kantini gibi uygun fiyatlı ve rahat."
+        ]
+      },
+      {
+        "restaurant_name" : "Hausburger",
+        "photo_url" : "https://fastly.4sqi.net/img/general/600x600/69126127_hj6ymO9IiemXsC1IGgxxAO1oSJJRG7R9x42idIgU_jg.jpg",
+        "description" : "Lezzetli hamburgerleriyle unutulmayacak anlar",
+        "comments" : [
+          "Son dönemde Antalya'da yediğim en iyi burger. Tek eksiği patatesi. Yine de tam bir fine dining.",
+          "Böyle bir lezzet yok. Dana beef Burger'i tavsiye ederim. Fiyatlar biraz daha makul olabilirdi. Onun dışında herşey harika."
+        ]
+      }
     ],
     "name": "Bolu Abant İzzet Baysal Üniversitesi"
   },
   {
-    "index": 7,
+    "index": 1,
     "restaurants": [
-      "Balkan Sofrası",
-      "Mimoza Cafe Fast Food"
+      {
+        "restaurant_name" : "Taşbina",
+        "photo_url" : "https://www.anadolu.edu.tr/uploads/anadolu/images/slider/54a3f2eb3775a.JPG",
+        "description" : "Taşbina açıklama",
+        "comments" : [
+          "Yemekleri gercekten cok guzel günlük menüleri haricinde mangal seçenekleri de mevcut. Son gittiğimde kereviz yedim gerçekten cok lezzetliydi yolunuz düşerse kesinlikle tercih edebilirsiniz.",
+          "Otantik bir ortamda ve uygun fiyata farklı lezzetleri ve tatları deneyimlemek için güzel bir mekan."
+        ]
+      },
+      {
+        "restaurant_name" : "Monti Food Coffee",
+        "photo_url" : "https://ilan.eskisehir.net/CDN/Images/Place/monti-food-coffee_2dd0fc28-76ed-49fd-b325-ce44a3263152.jpg",
+        "description" : "Monti Food Coffee açıklama",
+        "comments": [
+
+        ]
+      }
     ],
     "name": "Bursa Uludağ Üniversitesi"
   },
   {
-    "index": 8,
+    "index": 1,
     "restaurants": [
-      "Amfi Balkon Cafe",
-      "Hancock Cafe"
+      {
+        "restaurant_name" : "Ziraat Cafe & Bistro",
+        "photo_url" : "https://fastly.4sqi.net/img/general/600x600/121715467_bkAna4q8aeosIx0HCI6HckLpiEhzFe2uzDBNxQhrToQ.jpg",
+        "description" : "Ziraat Cafe & Bistro açıklama",
+        "comments": [
+          "Koltuklar rahat, öğrenci dostu mekan. Süslemeleri gayet fotoğrafsever. Fon alanları yaratmışlar. Çalışanlar genç ve maskesiz malesef. Girişten itibaren kahve kokusu mutlu hissetmenize yetiyor. Kampüsün büyülü yeşilliğine bakarak dinlenme fırsatını kaçırmayın.",
+          "Salaş ve loş bir ortamı var ama güzel ve sakin bir yer, arkadaşlarla oturup kaliteli vakit geçirebilirsiniz zira okulun İnterneti cayır cayır çekmekte lakin fiyatlar uçmuş dolayısıyla bir çaya 10 TL vermek sinir bozucu olabilir, haftada bir gidilmelik güzel mekan."
+        ]
+      },
+      {
+        "restaurant_name" : "Mozart Cafe",
+        "photo_url" : "https://fastly.4sqi.net/img/general/600x600/124730542_GTo-xRqr2Bkc36VcBM6fwpiRY59kN5Pxq02V6a3Hp1E.jpg",
+        "description" : "Mozart Cafe açıklama",
+        "comments": [
+          "Ben hiç gitmedim ama kahvemi burdan alıyorum. Bu yüzden yazmak istiyorum. Öncelikle WhatsApp uygulamasından kolaylıkla sipariş verebiliyorsunuz, sizin tüm sorularınızı anında cevaplıyorlar. Hiç bekletmeden de gönderiyorlar",
+          "Mezun olalı 12 sene oldu. Hâlâ buranın kahve ve cookie'si çok daha leziz geliyor. Güler yüzleri de cabası... Ellerinize ve yüreğinize sağlık, ne zaman Ankara'ya gelsem kesinlikle bir cookie-kahve benim klasiğimdir.."
+        ]
+      }
     ],
-    "name": "Çanakkale Onsekiz Mart Üniversitesi"
+    "name": "Çanakkale Onsekiz Mart  Üniversitesi"
   },
   {
-    "index": 9,
+    "index": 0,
     "restaurants": [
-      "Soulmate Coffe",
-      "Aqua Cafe"
+      {
+        "restaurant_name" : "Cansimidi",
+        "photo_url" : "https://fastly.4sqi.net/img/general/width960/64174745_o9fdAc_RZb9e3He5Ex2tcgKpIvdq58VkBLUFxtZtQkA.jpg",
+        "description" : "Burası insanların tam anlamıyla üniversiteyi tattığı bir yerdir. Uzun uzun sohbetlerin çay eşliğinde arttığı bir simitçi. Sesli müziklerden uzak keyifli bir mekan.",
+        "comments" : [
+          "Peynirli domatesli kumru cok iyi soslarla daha da lezzetli hale geliyor. Nefis çay ve hizli servis güzel simit candir.",
+          "Üniversitedeki en güzel kantin burasıdır. Özel işletme olsa da okulun kantini gibi uygun fiyatlı ve rahat."
+        ]
+      },
+      {
+        "restaurant_name" : "Hausburger",
+        "photo_url" : "https://fastly.4sqi.net/img/general/600x600/69126127_hj6ymO9IiemXsC1IGgxxAO1oSJJRG7R9x42idIgU_jg.jpg",
+        "description" : "Lezzetli hamburgerleriyle unutulmayacak anlar",
+        "comments" : [
+          "Son dönemde Antalya'da yediğim en iyi burger. Tek eksiği patatesi. Yine de tam bir fine dining.",
+          "Böyle bir lezzet yok. Dana beef Burger'i tavsiye ederim. Fiyatlar biraz daha makul olabilirdi. Onun dışında herşey harika."
+        ]
+      }
     ],
-    "name": "Çukurova Üniversitesi"
+    "name": "Çukurova  Üniversitesi"
   },
   {
-    "index": 10,
+    "index": 1,
     "restaurants": [
-      "Murano's Kitchen",
-      "Özsüt Select",
-      "Veli Usta Körfez",
-      "Ristorante Pizzeria Venedik"
+      {
+        "restaurant_name" : "Taşbina",
+        "photo_url" : "https://www.anadolu.edu.tr/uploads/anadolu/images/slider/54a3f2eb3775a.JPG",
+        "description" : "Taşbina açıklama",
+        "comments" : [
+          "Yemekleri gercekten cok guzel günlük menüleri haricinde mangal seçenekleri de mevcut. Son gittiğimde kereviz yedim gerçekten cok lezzetliydi yolunuz düşerse kesinlikle tercih edebilirsiniz.",
+          "Otantik bir ortamda ve uygun fiyata farklı lezzetleri ve tatları deneyimlemek için güzel bir mekan."
+        ]
+      },
+      {
+        "restaurant_name" : "Monti Food Coffee",
+        "photo_url" : "https://ilan.eskisehir.net/CDN/Images/Place/monti-food-coffee_2dd0fc28-76ed-49fd-b325-ce44a3263152.jpg",
+        "description" : "Monti Food Coffee açıklama",
+        "comments": [
+
+        ]
+      }
     ],
     "name": "Dokuz Eylül Üniversitesi"
   },
   {
-    "index": 11,
+    "index": 1,
     "restaurants": [
-      "Espressolab Ege Üniversitesi",
-      "Take & Rest Coffee"
+      {
+        "restaurant_name" : "Ziraat Cafe & Bistro",
+        "photo_url" : "https://fastly.4sqi.net/img/general/600x600/121715467_bkAna4q8aeosIx0HCI6HckLpiEhzFe2uzDBNxQhrToQ.jpg",
+        "description" : "Ziraat Cafe & Bistro açıklama",
+        "comments": [
+          "Koltuklar rahat, öğrenci dostu mekan. Süslemeleri gayet fotoğrafsever. Fon alanları yaratmışlar. Çalışanlar genç ve maskesiz malesef. Girişten itibaren kahve kokusu mutlu hissetmenize yetiyor. Kampüsün büyülü yeşilliğine bakarak dinlenme fırsatını kaçırmayın.",
+          "Salaş ve loş bir ortamı var ama güzel ve sakin bir yer, arkadaşlarla oturup kaliteli vakit geçirebilirsiniz zira okulun İnterneti cayır cayır çekmekte lakin fiyatlar uçmuş dolayısıyla bir çaya 10 TL vermek sinir bozucu olabilir, haftada bir gidilmelik güzel mekan."
+        ]
+      },
+      {
+        "restaurant_name" : "Mozart Cafe",
+        "photo_url" : "https://fastly.4sqi.net/img/general/600x600/124730542_GTo-xRqr2Bkc36VcBM6fwpiRY59kN5Pxq02V6a3Hp1E.jpg",
+        "description" : "Mozart Cafe açıklama",
+        "comments": [
+          "Ben hiç gitmedim ama kahvemi burdan alıyorum. Bu yüzden yazmak istiyorum. Öncelikle WhatsApp uygulamasından kolaylıkla sipariş verebiliyorsunuz, sizin tüm sorularınızı anında cevaplıyorlar. Hiç bekletmeden de gönderiyorlar",
+          "Mezun olalı 12 sene oldu. Hâlâ buranın kahve ve cookie'si çok daha leziz geliyor. Güler yüzleri de cabası... Ellerinize ve yüreğinize sağlık, ne zaman Ankara'ya gelsem kesinlikle bir cookie-kahve benim klasiğimdir.."
+        ]
+      }
     ],
-    "name": "Ege Üniversitesi"
+    "name": "Ege  Üniversitesi"
   },
   {
-    "index": 12,
+    "index": 0,
     "restaurants": [
-      "Servet Cafe Restaurant Bahçe",
-      "Elma Cafe&Bistro"
+      {
+        "restaurant_name" : "Cansimidi",
+        "photo_url" : "https://fastly.4sqi.net/img/general/width960/64174745_o9fdAc_RZb9e3He5Ex2tcgKpIvdq58VkBLUFxtZtQkA.jpg",
+        "description" : "Burası insanların tam anlamıyla üniversiteyi tattığı bir yerdir. Uzun uzun sohbetlerin çay eşliğinde arttığı bir simitçi. Sesli müziklerden uzak keyifli bir mekan.",
+        "comments" : [
+          "Peynirli domatesli kumru cok iyi soslarla daha da lezzetli hale geliyor. Nefis çay ve hizli servis güzel simit candir.",
+          "Üniversitedeki en güzel kantin burasıdır. Özel işletme olsa da okulun kantini gibi uygun fiyatlı ve rahat."
+        ]
+      },
+      {
+        "restaurant_name" : "Hausburger",
+        "photo_url" : "https://fastly.4sqi.net/img/general/600x600/69126127_hj6ymO9IiemXsC1IGgxxAO1oSJJRG7R9x42idIgU_jg.jpg",
+        "description" : "Lezzetli hamburgerleriyle unutulmayacak anlar",
+        "comments" : [
+          "Son dönemde Antalya'da yediğim en iyi burger. Tek eksiği patatesi. Yine de tam bir fine dining.",
+          "Böyle bir lezzet yok. Dana beef Burger'i tavsiye ederim. Fiyatlar biraz daha makul olabilirdi. Onun dışında herşey harika."
+        ]
+      }
     ],
     "name": "Eskişehir Osmangazi Üniversitesi"
   },
   {
-    "index": 13,
+    "index": 1,
     "restaurants": [
-      "Acun Tantuni",
-      "Hot kumru"
+      {
+        "restaurant_name" : "Taşbina",
+        "photo_url" : "https://www.anadolu.edu.tr/uploads/anadolu/images/slider/54a3f2eb3775a.JPG",
+        "description" : "Taşbina açıklama",
+        "comments" : [
+          "Yemekleri gercekten cok guzel günlük menüleri haricinde mangal seçenekleri de mevcut. Son gittiğimde kereviz yedim gerçekten cok lezzetliydi yolunuz düşerse kesinlikle tercih edebilirsiniz.",
+          "Otantik bir ortamda ve uygun fiyata farklı lezzetleri ve tatları deneyimlemek için güzel bir mekan."
+        ]
+      },
+      {
+        "restaurant_name" : "Monti Food Coffee",
+        "photo_url" : "https://ilan.eskisehir.net/CDN/Images/Place/monti-food-coffee_2dd0fc28-76ed-49fd-b325-ce44a3263152.jpg",
+        "description" : "Monti Food Coffee açıklama",
+        "comments": [
+
+        ]
+      }
     ],
-    "name": "Gazi Üniversitesi"
+    "name": "Gazi  Üniversitesi"
   },
   {
-    "index": 14,
+    "index": 1,
     "restaurants": [
-      "Beyaz Ev Restorant",
-      "Vadi Restoran",
-      "Geyik Kafe"
+      {
+        "restaurant_name" : "Ziraat Cafe & Bistro",
+        "photo_url" : "https://fastly.4sqi.net/img/general/600x600/121715467_bkAna4q8aeosIx0HCI6HckLpiEhzFe2uzDBNxQhrToQ.jpg",
+        "description" : "Ziraat Cafe & Bistro açıklama",
+        "comments": [
+          "Koltuklar rahat, öğrenci dostu mekan. Süslemeleri gayet fotoğrafsever. Fon alanları yaratmışlar. Çalışanlar genç ve maskesiz malesef. Girişten itibaren kahve kokusu mutlu hissetmenize yetiyor. Kampüsün büyülü yeşilliğine bakarak dinlenme fırsatını kaçırmayın.",
+          "Salaş ve loş bir ortamı var ama güzel ve sakin bir yer, arkadaşlarla oturup kaliteli vakit geçirebilirsiniz zira okulun İnterneti cayır cayır çekmekte lakin fiyatlar uçmuş dolayısıyla bir çaya 10 TL vermek sinir bozucu olabilir, haftada bir gidilmelik güzel mekan."
+        ]
+      },
+      {
+        "restaurant_name" : "Mozart Cafe",
+        "photo_url" : "https://fastly.4sqi.net/img/general/600x600/124730542_GTo-xRqr2Bkc36VcBM6fwpiRY59kN5Pxq02V6a3Hp1E.jpg",
+        "description" : "Mozart Cafe açıklama",
+        "comments": [
+          "Ben hiç gitmedim ama kahvemi burdan alıyorum. Bu yüzden yazmak istiyorum. Öncelikle WhatsApp uygulamasından kolaylıkla sipariş verebiliyorsunuz, sizin tüm sorularınızı anında cevaplıyorlar. Hiç bekletmeden de gönderiyorlar",
+          "Mezun olalı 12 sene oldu. Hâlâ buranın kahve ve cookie'si çok daha leziz geliyor. Güler yüzleri de cabası... Ellerinize ve yüreğinize sağlık, ne zaman Ankara'ya gelsem kesinlikle bir cookie-kahve benim klasiğimdir.."
+        ]
+      }
     ],
     "name": "Hacettepe Üniversitesi"
   },
   {
-    "index": 15,
+    "index": 0,
     "restaurants": [
-      "Fanfan Cafe",
-      "Selfiş Sütiş",
-      "Kampüs Cafe"
+      {
+        "restaurant_name" : "Cansimidi",
+        "photo_url" : "https://fastly.4sqi.net/img/general/width960/64174745_o9fdAc_RZb9e3He5Ex2tcgKpIvdq58VkBLUFxtZtQkA.jpg",
+        "description" : "Burası insanların tam anlamıyla üniversiteyi tattığı bir yerdir. Uzun uzun sohbetlerin çay eşliğinde arttığı bir simitçi. Sesli müziklerden uzak keyifli bir mekan.",
+        "comments" : [
+          "Peynirli domatesli kumru cok iyi soslarla daha da lezzetli hale geliyor. Nefis çay ve hizli servis güzel simit candir.",
+          "Üniversitedeki en güzel kantin burasıdır. Özel işletme olsa da okulun kantini gibi uygun fiyatlı ve rahat."
+        ]
+      },
+      {
+        "restaurant_name" : "Hausburger",
+        "photo_url" : "https://fastly.4sqi.net/img/general/600x600/69126127_hj6ymO9IiemXsC1IGgxxAO1oSJJRG7R9x42idIgU_jg.jpg",
+        "description" : "Lezzetli hamburgerleriyle unutulmayacak anlar",
+        "comments" : [
+          "Son dönemde Antalya'da yediğim en iyi burger. Tek eksiği patatesi. Yine de tam bir fine dining.",
+          "Böyle bir lezzet yok. Dana beef Burger'i tavsiye ederim. Fiyatlar biraz daha makul olabilirdi. Onun dışında herşey harika."
+        ]
+      }
     ],
     "name": "İstanbul Teknik Üniversitesi"
   },
   {
-    "index": 16,
+    "index": 1,
     "restaurants": [
-      "Sütlü Kahve",
-      "Vefakar Cafe"
+      {
+        "restaurant_name" : "Taşbina",
+        "photo_url" : "https://www.anadolu.edu.tr/uploads/anadolu/images/slider/54a3f2eb3775a.JPG",
+        "description" : "Taşbina açıklama",
+        "comments" : [
+          "Yemekleri gercekten cok guzel günlük menüleri haricinde mangal seçenekleri de mevcut. Son gittiğimde kereviz yedim gerçekten cok lezzetliydi yolunuz düşerse kesinlikle tercih edebilirsiniz.",
+          "Otantik bir ortamda ve uygun fiyata farklı lezzetleri ve tatları deneyimlemek için güzel bir mekan."
+        ]
+      },
+      {
+        "restaurant_name" : "Monti Food Coffee",
+        "photo_url" : "https://ilan.eskisehir.net/CDN/Images/Place/monti-food-coffee_2dd0fc28-76ed-49fd-b325-ce44a3263152.jpg",
+        "description" : "Monti Food Coffee açıklama",
+        "comments": [
+
+        ]
+      }
     ],
-    "name": "İstanbul Üniversitesi"
+    "name": "İstanbul  Üniversitesi"
   },
   {
-    "index": 17,
+    "index": 1,
     "restaurants": [
-      "Umut Kafe",
-      "Ada Kafe"
+      {
+        "restaurant_name" : "Ziraat Cafe & Bistro",
+        "photo_url" : "https://fastly.4sqi.net/img/general/600x600/121715467_bkAna4q8aeosIx0HCI6HckLpiEhzFe2uzDBNxQhrToQ.jpg",
+        "description" : "Ziraat Cafe & Bistro açıklama",
+        "comments": [
+          "Koltuklar rahat, öğrenci dostu mekan. Süslemeleri gayet fotoğrafsever. Fon alanları yaratmışlar. Çalışanlar genç ve maskesiz malesef. Girişten itibaren kahve kokusu mutlu hissetmenize yetiyor. Kampüsün büyülü yeşilliğine bakarak dinlenme fırsatını kaçırmayın.",
+          "Salaş ve loş bir ortamı var ama güzel ve sakin bir yer, arkadaşlarla oturup kaliteli vakit geçirebilirsiniz zira okulun İnterneti cayır cayır çekmekte lakin fiyatlar uçmuş dolayısıyla bir çaya 10 TL vermek sinir bozucu olabilir, haftada bir gidilmelik güzel mekan."
+        ]
+      },
+      {
+        "restaurant_name" : "Mozart Cafe",
+        "photo_url" : "https://fastly.4sqi.net/img/general/600x600/124730542_GTo-xRqr2Bkc36VcBM6fwpiRY59kN5Pxq02V6a3Hp1E.jpg",
+        "description" : "Mozart Cafe açıklama",
+        "comments": [
+          "Ben hiç gitmedim ama kahvemi burdan alıyorum. Bu yüzden yazmak istiyorum. Öncelikle WhatsApp uygulamasından kolaylıkla sipariş verebiliyorsunuz, sizin tüm sorularınızı anında cevaplıyorlar. Hiç bekletmeden de gönderiyorlar",
+          "Mezun olalı 12 sene oldu. Hâlâ buranın kahve ve cookie'si çok daha leziz geliyor. Güler yüzleri de cabası... Ellerinize ve yüreğinize sağlık, ne zaman Ankara'ya gelsem kesinlikle bir cookie-kahve benim klasiğimdir.."
+        ]
+      }
     ],
-    "name": "Kocaeli Üniversitesi"
+    "name": "Kocaeli  Üniversitesi"
   },
   {
-    "index": 18,
+    "index": 0,
     "restaurants": [
-      "Starbucks",
-      "Marinara Pizza",
-      "Göztepe Kahvesi"
+      {
+        "restaurant_name" : "Cansimidi",
+        "photo_url" : "https://fastly.4sqi.net/img/general/width960/64174745_o9fdAc_RZb9e3He5Ex2tcgKpIvdq58VkBLUFxtZtQkA.jpg",
+        "description" : "Burası insanların tam anlamıyla üniversiteyi tattığı bir yerdir. Uzun uzun sohbetlerin çay eşliğinde arttığı bir simitçi. Sesli müziklerden uzak keyifli bir mekan.",
+        "comments" : [
+          "Peynirli domatesli kumru cok iyi soslarla daha da lezzetli hale geliyor. Nefis çay ve hizli servis güzel simit candir.",
+          "Üniversitedeki en güzel kantin burasıdır. Özel işletme olsa da okulun kantini gibi uygun fiyatlı ve rahat."
+        ]
+      },
+      {
+        "restaurant_name" : "Hausburger",
+        "photo_url" : "https://fastly.4sqi.net/img/general/600x600/69126127_hj6ymO9IiemXsC1IGgxxAO1oSJJRG7R9x42idIgU_jg.jpg",
+        "description" : "Lezzetli hamburgerleriyle unutulmayacak anlar",
+        "comments" : [
+          "Son dönemde Antalya'da yediğim en iyi burger. Tek eksiği patatesi. Yine de tam bir fine dining.",
+          "Böyle bir lezzet yok. Dana beef Burger'i tavsiye ederim. Fiyatlar biraz daha makul olabilirdi. Onun dışında herşey harika."
+        ]
+      }
     ],
-    "name": "Marmara Üniversitesi"
+    "name": "Marmara  Üniversitesi"
   },
   {
-    "index": 19,
+    "index": 1,
     "restaurants": [
-      "Taste Street Food",
-      "Black Sea Cafe"
+      {
+        "restaurant_name" : "Taşbina",
+        "photo_url" : "https://www.anadolu.edu.tr/uploads/anadolu/images/slider/54a3f2eb3775a.JPG",
+        "description" : "Taşbina açıklama",
+        "comments" : [
+          "Yemekleri gercekten cok guzel günlük menüleri haricinde mangal seçenekleri de mevcut. Son gittiğimde kereviz yedim gerçekten cok lezzetliydi yolunuz düşerse kesinlikle tercih edebilirsiniz.",
+          "Otantik bir ortamda ve uygun fiyata farklı lezzetleri ve tatları deneyimlemek için güzel bir mekan."
+        ]
+      },
+      {
+        "restaurant_name" : "Monti Food Coffee",
+        "photo_url" : "https://ilan.eskisehir.net/CDN/Images/Place/monti-food-coffee_2dd0fc28-76ed-49fd-b325-ce44a3263152.jpg",
+        "description" : "Monti Food Coffee açıklama",
+        "comments": [
+
+        ]
+      }
     ],
-    "name": "Ordu Üniversitesi"
+    "name": "Ordu  Üniversitesi"
   },
   {
-    "index": 20,
+    "index": 1,
     "restaurants": [
-      "Barikat",
-      "Sunshine"
+      {
+        "restaurant_name" : "Ziraat Cafe & Bistro",
+        "photo_url" : "https://fastly.4sqi.net/img/general/600x600/121715467_bkAna4q8aeosIx0HCI6HckLpiEhzFe2uzDBNxQhrToQ.jpg",
+        "description" : "Ziraat Cafe & Bistro açıklama",
+        "comments": [
+          "Koltuklar rahat, öğrenci dostu mekan. Süslemeleri gayet fotoğrafsever. Fon alanları yaratmışlar. Çalışanlar genç ve maskesiz malesef. Girişten itibaren kahve kokusu mutlu hissetmenize yetiyor. Kampüsün büyülü yeşilliğine bakarak dinlenme fırsatını kaçırmayın.",
+          "Salaş ve loş bir ortamı var ama güzel ve sakin bir yer, arkadaşlarla oturup kaliteli vakit geçirebilirsiniz zira okulun İnterneti cayır cayır çekmekte lakin fiyatlar uçmuş dolayısıyla bir çaya 10 TL vermek sinir bozucu olabilir, haftada bir gidilmelik güzel mekan."
+        ]
+      },
+      {
+        "restaurant_name" : "Mozart Cafe",
+        "photo_url" : "https://fastly.4sqi.net/img/general/600x600/124730542_GTo-xRqr2Bkc36VcBM6fwpiRY59kN5Pxq02V6a3Hp1E.jpg",
+        "description" : "Mozart Cafe açıklama",
+        "comments": [
+          "Ben hiç gitmedim ama kahvemi burdan alıyorum. Bu yüzden yazmak istiyorum. Öncelikle WhatsApp uygulamasından kolaylıkla sipariş verebiliyorsunuz, sizin tüm sorularınızı anında cevaplıyorlar. Hiç bekletmeden de gönderiyorlar",
+          "Mezun olalı 12 sene oldu. Hâlâ buranın kahve ve cookie'si çok daha leziz geliyor. Güler yüzleri de cabası... Ellerinize ve yüreğinize sağlık, ne zaman Ankara'ya gelsem kesinlikle bir cookie-kahve benim klasiğimdir.."
+        ]
+      }
     ],
     "name": "Orta Doğu Teknik Üniversitesi"
   },
   {
-    "index": 21,
+    "index": 1,
     "restaurants": [
-      "Durak Kafe",
-      "Adıbahçe"
+      {
+        "restaurant_name" : "Ziraat Cafe & Bistro",
+        "photo_url" : "https://fastly.4sqi.net/img/general/600x600/121715467_bkAna4q8aeosIx0HCI6HckLpiEhzFe2uzDBNxQhrToQ.jpg",
+        "description" : "Ziraat Cafe & Bistro açıklama",
+        "comments": [
+          "Koltuklar rahat, öğrenci dostu mekan. Süslemeleri gayet fotoğrafsever. Fon alanları yaratmışlar. Çalışanlar genç ve maskesiz malesef. Girişten itibaren kahve kokusu mutlu hissetmenize yetiyor. Kampüsün büyülü yeşilliğine bakarak dinlenme fırsatını kaçırmayın.",
+          "Salaş ve loş bir ortamı var ama güzel ve sakin bir yer, arkadaşlarla oturup kaliteli vakit geçirebilirsiniz zira okulun İnterneti cayır cayır çekmekte lakin fiyatlar uçmuş dolayısıyla bir çaya 10 TL vermek sinir bozucu olabilir, haftada bir gidilmelik güzel mekan."
+        ]
+      },
+      {
+        "restaurant_name" : "Mozart Cafe",
+        "photo_url" : "https://fastly.4sqi.net/img/general/600x600/124730542_GTo-xRqr2Bkc36VcBM6fwpiRY59kN5Pxq02V6a3Hp1E.jpg",
+        "description" : "Mozart Cafe açıklama",
+        "comments": [
+          "Ben hiç gitmedim ama kahvemi burdan alıyorum. Bu yüzden yazmak istiyorum. Öncelikle WhatsApp uygulamasından kolaylıkla sipariş verebiliyorsunuz, sizin tüm sorularınızı anında cevaplıyorlar. Hiç bekletmeden de gönderiyorlar",
+          "Mezun olalı 12 sene oldu. Hâlâ buranın kahve ve cookie'si çok daha leziz geliyor. Güler yüzleri de cabası... Ellerinize ve yüreğinize sağlık, ne zaman Ankara'ya gelsem kesinlikle bir cookie-kahve benim klasiğimdir.."
+        ]
+      }
     ],
     "name": "Sakarya Üniversitesi"
   },
   {
-    "index": 22,
+    "index": 1,
     "restaurants": [
-      "Petula Kahvaltı & Restaurant",
-      "Organica Restaurant"
+      {
+        "restaurant_name" : "Ziraat Cafe & Bistro",
+        "photo_url" : "https://fastly.4sqi.net/img/general/600x600/121715467_bkAna4q8aeosIx0HCI6HckLpiEhzFe2uzDBNxQhrToQ.jpg",
+        "description" : "Ziraat Cafe & Bistro açıklama",
+        "comments": [
+          "Koltuklar rahat, öğrenci dostu mekan. Süslemeleri gayet fotoğrafsever. Fon alanları yaratmışlar. Çalışanlar genç ve maskesiz malesef. Girişten itibaren kahve kokusu mutlu hissetmenize yetiyor. Kampüsün büyülü yeşilliğine bakarak dinlenme fırsatını kaçırmayın.",
+          "Salaş ve loş bir ortamı var ama güzel ve sakin bir yer, arkadaşlarla oturup kaliteli vakit geçirebilirsiniz zira okulun İnterneti cayır cayır çekmekte lakin fiyatlar uçmuş dolayısıyla bir çaya 10 TL vermek sinir bozucu olabilir, haftada bir gidilmelik güzel mekan."
+        ]
+      },
+      {
+        "restaurant_name" : "Mozart Cafe",
+        "photo_url" : "https://fastly.4sqi.net/img/general/600x600/124730542_GTo-xRqr2Bkc36VcBM6fwpiRY59kN5Pxq02V6a3Hp1E.jpg",
+        "description" : "Mozart Cafe açıklama",
+        "comments": [
+          "Ben hiç gitmedim ama kahvemi burdan alıyorum. Bu yüzden yazmak istiyorum. Öncelikle WhatsApp uygulamasından kolaylıkla sipariş verebiliyorsunuz, sizin tüm sorularınızı anında cevaplıyorlar. Hiç bekletmeden de gönderiyorlar",
+          "Mezun olalı 12 sene oldu. Hâlâ buranın kahve ve cookie'si çok daha leziz geliyor. Güler yüzleri de cabası... Ellerinize ve yüreğinize sağlık, ne zaman Ankara'ya gelsem kesinlikle bir cookie-kahve benim klasiğimdir.."
+        ]
+      }
     ],
     "name": "Yalova Üniversitesi"
   }

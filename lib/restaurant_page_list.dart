@@ -35,11 +35,12 @@ class _RestaurantsPageListState extends State<RestaurantsPageList> {
               return  ListTile(
                 onTap: () {
                   Navigator.push(context,
-                      MaterialPageRoute(builder: (context) => RestaurantDetailPage(widget.university.restaurants[index])));
+                      MaterialPageRoute(builder: (context) =>
+                          RestaurantDetailPage(widget.university.restaurants[index].restaurantName, widget.university.restaurants[index].photoUrl, widget.university.restaurants[index].description, widget.university.restaurants[index].comments)));
                 },
                 title: Padding(
                   padding: const EdgeInsets.all(16.0),
-                  child: Text(widget.university.restaurants[index], style: const TextStyle(
+                  child: Text(widget.university.restaurants[index].restaurantName, style: const TextStyle(
                     fontSize: 18,
                   ),),
                 ),
