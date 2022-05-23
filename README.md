@@ -112,11 +112,11 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 - **Ürün Durumu**: Ekran görüntüleri:
 
  ![Screenshot 1](https://user-images.githubusercontent.com/104465906/169879958-dda3eab6-d17e-44fe-919c-6e09f1f35ab5.png)
- ![Screenshot 2](https://user-images.githubusercontent.com/104465906/169880007-993f8691-9a91-4472-865d-a09f82e5b86c.png)
- ![Screenshot 3](https://user-images.githubusercontent.com/104465906/169880047-f735d5e8-68a6-4b33-b429-b71f7a1b0f1b.png)
- ![Screenshot 4](https://user-images.githubusercontent.com/104465906/169880090-77af901c-7201-4c96-adfd-b190683ddaa8.png)
- ![Screenshot 5](https://user-images.githubusercontent.com/104465906/169880111-3e042009-be07-435a-b4a0-02049cf7671c.png)
- ![Screenshot 6](https://user-images.githubusercontent.com/104465906/169880148-111844d6-83da-424a-a257-f6fce32e8c96.png)
+![Screenshot 2](https://user-images.githubusercontent.com/104465906/169880007-993f8691-9a91-4472-865d-a09f82e5b86c.png)
+![Screenshot 3](https://user-images.githubusercontent.com/104465906/169880047-f735d5e8-68a6-4b33-b429-b71f7a1b0f1b.png)
+![Screenshot 4](https://user-images.githubusercontent.com/104465906/169880090-77af901c-7201-4c96-adfd-b190683ddaa8.png)
+![Screenshot 5](https://user-images.githubusercontent.com/104465906/169880111-3e042009-be07-435a-b4a0-02049cf7671c.png)
+![Screenshot 6](https://user-images.githubusercontent.com/104465906/169880148-111844d6-83da-424a-a257-f6fce32e8c96.png)
 
 - **Sprint Review**: 
 
@@ -135,10 +135,10 @@ Sprint Review katılımcıları:
 - **Sprint Retrospective:**
 
 Toplantı Tarihi: 22/05/2022
-- Uygulamanın kodlanması için harcanan efor arttırılmalı ve uygulamanın geri kalan kısmının en iyi şekilde kodlanabilmesi için developerlara düzenli zaman dilimleri oluşturulmalıdır.
-- Daily Scrum toplanılarına gösterilen özen daha da artarak devam etmelidir.
-- Uygulamanın belli kısımlarının kodlanma aşamasında developerların ikişerli gruplara ayrılarak çalışması gerekmektedir.
-- Bir sonraki sprint planlama toplantısında uygulamanın eksiksiz tamamlanabilmesi için görev dağılımlarında ufak değişiklikler yapılması gerekmektedir.
+  - Uygulamanın kodlanması için harcanan efor arttırılmalı ve uygulamanın geri kalan kısmının en iyi şekilde kodlanabilmesi için developerlara düzenli zaman dilimleri oluşturulmalıdır.
+  - Daily Scrum toplanılarına gösterilen özen daha da artarak devam etmelidir.
+  - Uygulamanın belli kısımlarının kodlanma aşamasında developerların ikişerli gruplara ayrılarak çalışması gerekmektedir.
+  - Bir sonraki sprint planlama toplantısında uygulamanın eksiksiz tamamlanabilmesi için görev dağılımlarında ufak değişiklikler yapılması gerekmektedir.
 
 -**Diğer Notlar**:
 - N/A
