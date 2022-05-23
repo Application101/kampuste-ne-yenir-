@@ -119,8 +119,22 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
  ![Screenshot 6](https://user-images.githubusercontent.com/104465906/169880148-111844d6-83da-424a-a257-f6fce32e8c96.png)
 
 - **Sprint Review**: 
+Toplantı Tarihi: 22/05/2022
+Alınan kararlar;
+Kullanıcılar tarafından yapılacak beğeni ve yorumların firebase üzerinden çekilmesine karar verilmiştir. "Entry Page" sayfasına uygun bir kampüs resmi bulunup bu resmin arka plana koyulması uygun görülmüştür. Oluşturulan "Restaurant Page" sayfa içeriğinin yorum bölümünün daha fazla zenginleştirilmesine, renklendirmeler yapılmasına ve tamamlanmamış restorant sayfalarının diğer sprintte bitirilmesine karar verilmiştir. Çıkan ürünün çalışmasında herhangi bir sıkıntı görülmemektedir. Tüm sayfalarda kullanılacak yazı font tipine diğer sprintte karar verilip "Restaurant Page" sayfasına gerek görülmesi halinde ekstra özellikler koyulması uygun görülmüştür.
+Sprint Review katılımcıları:
+-Erinç Çetin
+-Hatice Deveci
+-Fatma Pasin
+-Beyzanur Yeşilyurt
+-Beyza Nur Aslanhan
 
 - **Sprint Retrospective:**
+Toplantı Tarihi: 22/05/2022
+  - Uygulamanın kodlanması için harcanan efor arttırılmalı ve uygulamanın geri kalan kısmının en iyi şekilde kodlanabilmesi için developerlara düzenli zaman dilimleri oluşturulmalıdır.
+  - Daily Scrum toplanılarına gösterilen özen daha da artarak devam etmelidir.
+  - Uygulamanın belli kısımlarının kodlanma aşamasında developerların ikişerli gruplara ayrılarak çalışması gerekmektedir.
+  - Bir sonraki sprint planlama toplantısında uygulamanın eksiksiz tamamlanabilmesi için görev dağılımlarında ufak değişiklikler yapılması gerekmektedir.
 
 -**Diğer Notlar**:
 - N/A
