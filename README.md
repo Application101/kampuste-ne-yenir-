@@ -180,7 +180,6 @@ Alınan kararlar;
 Kullanıcılar tarafından yapılacak restorant seçimleri arama butonu sayesinde kolaylıkla yapılabilmektedir. Çıkan son ürünün çalışmasında herhangi bir sıkıntı görülmemektedir.
 
 Sprint Review katılımcıları:
--Erinç Çetin
 -Hatice Deveci
 -Fatma Pasin
 -Beyzanur Yeşilyurt
