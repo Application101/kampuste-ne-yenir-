@@ -174,7 +174,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 - **Sprint Review**: 
 
-Toplantı Tarihi: 22/05/2022
+Toplantı Tarihi: 05/06/2022
 
 Alınan kararlar;
 Kullanıcılar tarafından yapılacak restorant seçimleri arama butonu sayesinde kolaylıkla yapılabilmektedir. Çıkan son ürünün çalışmasında herhangi bir sıkıntı görülmemektedir.
@@ -193,6 +193,7 @@ Sprint Review katılımcıları:
   - Sprint için planlanan toplam puana ulaşılamadı.
 
 -**Diğer Notlar**:
+
 - Uygulama için gerçekleştirmeyi düşündüğümüz bazı özellikleri bu sprint içerisinde tamamlayamadık. Çıkan ürünün en son hali 3. sprintte tarafımızdan paylaşılmaktadır.
 
 ---
