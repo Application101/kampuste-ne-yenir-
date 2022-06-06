@@ -188,7 +188,7 @@ Sprint Review katılımcıları:
 - **Sprint Retrospective:** Toplantı Tarihi: 05/06/2022
   - Bu sprintte kullanıcıların arama butonunu kullanarak restorant seçimlerini kolaylıkla yapabilmesi gerçekleştirildi.
   - Daily Scrum için düzenli olarak buluşmalar yapmaya özen gösterildi.
-  - Uygulamanın eksiksiz bir şekilde kodlanabilmesi için ayrılan zaman dilimleri eksiksiz bir şekilde oluşturulamadı.Bu durumdan ötürü uygulama için planladığımız bazı özellikler uygulama içerisine eklenemedi.
+  - Uygulamanın eksiksiz bir şekilde kodlanabilmesi için ayrılan zaman dilimleri eksiksiz bir şekilde oluşturulamadı. Bu durumdan ötürü uygulama için planladığımız bazı özellikler uygulama içerisine eklenemedi.
   - Sprint için planlanan toplam puana ulaşılamadı.
 
 -**Diğer Notlar**:
