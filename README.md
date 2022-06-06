@@ -171,3 +171,28 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 ![Screenshot 4](https://user-images.githubusercontent.com/104465906/169880090-77af901c-7201-4c96-adfd-b190683ddaa8.png)
 ![Screenshot 5](https://user-images.githubusercontent.com/104465906/169880111-3e042009-be07-435a-b4a0-02049cf7671c.png)
 ![Screenshot 6](https://user-images.githubusercontent.com/104465906/169880148-111844d6-83da-424a-a257-f6fce32e8c96.png)
+
+- **Sprint Review**: 
+
+Toplantı Tarihi: 22/05/2022
+
+Alınan kararlar;
+Kullanıcılar tarafından yapılacak restorant seçimleri arama butonu sayesinde kolaylıkla yapılabilmektedir. Çıkan son ürünün çalışmasında herhangi bir sıkıntı görülmemektedir.
+
+Sprint Review katılımcıları:
+-Erinç Çetin
+-Hatice Deveci
+-Fatma Pasin
+-Beyzanur Yeşilyurt
+-Beyza Nur Aslanhan
+
+- **Sprint Retrospective:** Toplantı Tarihi: 05/06/2022
+  - Bu sprintte kullanıcıların arama butonunu kullanarak restorant seçimlerini kolaylıkla yapabilmesi gerçekleştirildi.
+  - Daily Scrum için düzenli olarak buluşmalar yapmaya özen gösterildi.
+  - Uygulamanın eksiksiz bir şekilde kodlanabilmesi için ayrılan zaman dilimleri eksiksiz bir şekilde oluşturulamadı.Bu durumdan ötürü uygulama için planladığımız bazı özellikler uygulama içerisine eklenemedi.
+  - Sprint için planlanan toplam puana ulaşılamadı.
+
+-**Diğer Notlar**:
+- Uygulama için gerçekleştirmeyi düşündüğümüz bazı özellikleri bu sprint içerisinde tamamlayamadık. Çıkan ürünün en son hali 3. sprintte tarafımızdan paylaşılmaktadır.
+
+---
