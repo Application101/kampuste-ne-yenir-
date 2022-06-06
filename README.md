@@ -146,4 +146,28 @@ Sprint Review katılımcıları:
 
 # Sprint 3
 
----
+- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 65 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 180 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde üçüncü sprint'in en azından 65 puan ile tamamlanması gerektiğine karar verildi.
+
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
+
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken mavi item'lar yapılacak işleri (task) gösterirken, kırmızı item'lar story'leri temsil etmektedir.
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord üzerinden sesli veya yazılı konuşmalar olacak şekilde yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 3 Daily Scrum Chats](https://yalova-my.sharepoint.com/:w:/g/personal/200101044_ogrenci_yalova_edu_tr/EY1iYejEMVdHgy9xltpt_7gBGay4SkV19FJvbpTkMh-CfA?e=t27YJa)
+
+- **Sprint board update**: Sprint board screenshotları:
+![Backlog 1](https://user-images.githubusercontent.com/104465906/172130273-80feacf8-b124-44e9-bf90-1dbe1d8116ad.png)
+![Backlog 2](https://user-images.githubusercontent.com/104465906/172130349-263a8f9c-39ca-43dc-a311-2cc984652c0f.png)
+![Backlog 3](https://user-images.githubusercontent.com/104465906/172130396-96132024-f90c-45da-9efe-e17bd7177a65.png)
+
+- **Ürün Durumu**: Ekran görüntüleri:
+
+ ![Screenshot 1](https://user-images.githubusercontent.com/104465906/169879958-dda3eab6-d17e-44fe-919c-6e09f1f35ab5.png)
+![Screenshot 2](https://user-images.githubusercontent.com/104465906/169880007-993f8691-9a91-4472-865d-a09f82e5b86c.png)
+![Screenshot 3](https://user-images.githubusercontent.com/104465906/169880047-f735d5e8-68a6-4b33-b429-b71f7a1b0f1b.png)
+![Screenshot 4](https://user-images.githubusercontent.com/104465906/169880090-77af901c-7201-4c96-adfd-b190683ddaa8.png)
+![Screenshot 5](https://user-images.githubusercontent.com/104465906/169880111-3e042009-be07-435a-b4a0-02049cf7671c.png)
+![Screenshot 6](https://user-images.githubusercontent.com/104465906/169880148-111844d6-83da-424a-a257-f6fce32e8c96.png)
